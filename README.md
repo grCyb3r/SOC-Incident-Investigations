@@ -24,7 +24,7 @@ SOC Investigation documenting a two-phase attack involving LFI exploitation and 
 | **Room** | [Hacker's Hideout](https://tryhackme.com) |
 | **Incident Reference** | grCyb3r-THM 001-2026-03 |
 | **Date** | 12 March 2026 |
-| **Prepared by** | grCyb3r Team |
+| **Prepared by** | Fabio Martines Laiola — SOC Investigation Portfolio |
 | **Severity** | 🔴 Medium–Critical (Data Exposure & Credential Theft) |
 | **Systems Affected** | Web Server (`/var/log/apache2/access.log`), SSH Server (`/var/log/auth.log`) |
 | **SIEM Tool** | Splunk 9.1.1 |
